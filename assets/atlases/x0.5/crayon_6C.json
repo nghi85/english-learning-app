@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "6C-Crayon-00001-323-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00006-323-215.png": {
+      "frame": {
+        "x": 247,
+        "y": 0,
+        "w": 122,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 8,
+        "w": 122,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00008-323-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 283,
+        "w": 132,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 61,
+        "w": 132,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00014-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 283,
+        "w": 172,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 132,
+        "w": 172,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00011-323-215.png": {
+      "frame": {
+        "x": 304,
+        "y": 249,
+        "w": 165,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 132,
+        "w": 165,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00009-323-215.png": {
+      "frame": {
+        "x": 369,
+        "y": 0,
+        "w": 143,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 103,
+        "w": 143,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00010-323-215.png": {
+      "frame": {
+        "x": 304,
+        "y": 392,
+        "w": 154,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 126,
+        "w": 154,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00013-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 426,
+        "w": 114,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 114,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00012-323-215.png": {
+      "frame": {
+        "x": 458,
+        "y": 392,
+        "w": 109,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 109,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00000-323-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 483,
+        "w": 115,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 132,
+        "w": 115,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00005-323-215.png": {
+      "frame": {
+        "x": 469,
+        "y": 163,
+        "w": 100,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 23,
+        "w": 100,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00004-323-215.png": {
+      "frame": {
+        "x": 247,
+        "y": 249,
+        "w": 18,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 105,
+        "w": 18,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00002-323-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00003-323-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00007-323-215.png": {
+      "frame": {
+        "x": 247,
+        "y": 0,
+        "w": 122,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 8,
+        "w": 122,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00017-323-215.png": {
+      "frame": {
+        "x": 304,
+        "y": 249,
+        "w": 165,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 132,
+        "w": 165,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00023-323-215.png": {
+      "frame": {
+        "x": 304,
+        "y": 249,
+        "w": 165,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 132,
+        "w": 165,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00016-323-215.png": {
+      "frame": {
+        "x": 458,
+        "y": 392,
+        "w": 109,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 109,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00018-323-215.png": {
+      "frame": {
+        "x": 458,
+        "y": 392,
+        "w": 109,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 109,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00022-323-215.png": {
+      "frame": {
+        "x": 458,
+        "y": 392,
+        "w": 109,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 109,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00015-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 426,
+        "w": 114,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 114,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00019-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 426,
+        "w": 114,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 114,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00021-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 426,
+        "w": 114,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 104,
+        "w": 114,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Crayon-00020-323-215.png": {
+      "frame": {
+        "x": 132,
+        "y": 283,
+        "w": 172,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 132,
+        "w": 172,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 283
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "crayon_6C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 569,
+      "h": 599
+    },
+    "scale": 1
+  }
+}

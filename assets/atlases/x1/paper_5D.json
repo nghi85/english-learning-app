@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "5D-Paper-00007-236-317.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 368,
+        "h": 231
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 172,
+        "w": 368,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00006-236-317.png": {
+      "frame": {
+        "x": 0,
+        "y": 231,
+        "w": 364,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 174,
+        "w": 364,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00004-236-317.png": {
+      "frame": {
+        "x": 364,
+        "y": 231,
+        "w": 358,
+        "h": 227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 177,
+        "w": 358,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00005-236-317.png": {
+      "frame": {
+        "x": 368,
+        "y": 0,
+        "w": 357,
+        "h": 227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 177,
+        "w": 357,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00003-236-317.png": {
+      "frame": {
+        "x": 364,
+        "y": 458,
+        "w": 354,
+        "h": 227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 140,
+        "y": 178,
+        "w": 354,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00002-236-317.png": {
+      "frame": {
+        "x": 0,
+        "y": 460,
+        "w": 351,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 179,
+        "w": 351,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00000-236-317.png": {
+      "frame": {
+        "x": 351,
+        "y": 685,
+        "w": 349,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 180,
+        "w": 349,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Paper-00001-236-317.png": {
+      "frame": {
+        "x": 351,
+        "y": 685,
+        "w": 349,
+        "h": 228
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 141,
+        "y": 180,
+        "w": 349,
+        "h": 228
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "paper_5D.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 725,
+      "h": 913
+    },
+    "scale": 1
+  }
+}

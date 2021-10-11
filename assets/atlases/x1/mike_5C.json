@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "5C-Mike-00007-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 450,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 18,
+        "w": 450,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00015-816-262.png": {
+      "frame": {
+        "x": 450,
+        "y": 0,
+        "w": 450,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 18,
+        "w": 450,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00002-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 697,
+        "w": 455,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 18,
+        "w": 455,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00003-816-262.png": {
+      "frame": {
+        "x": 455,
+        "y": 697,
+        "w": 459,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 459,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00014-816-262.png": {
+      "frame": {
+        "x": 900,
+        "y": 0,
+        "w": 455,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 18,
+        "w": 455,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00005-816-262.png": {
+      "frame": {
+        "x": 914,
+        "y": 697,
+        "w": 459,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 459,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00006-816-262.png": {
+      "frame": {
+        "x": 1355,
+        "y": 0,
+        "w": 455,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 18,
+        "w": 455,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00001-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 1394,
+        "w": 450,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 18,
+        "w": 450,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00009-816-262.png": {
+      "frame": {
+        "x": 450,
+        "y": 1394,
+        "w": 450,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 18,
+        "w": 450,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00010-816-262.png": {
+      "frame": {
+        "x": 900,
+        "y": 1394,
+        "w": 455,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 18,
+        "w": 455,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00011-816-262.png": {
+      "frame": {
+        "x": 1355,
+        "y": 1394,
+        "w": 459,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 459,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00013-816-262.png": {
+      "frame": {
+        "x": 1373,
+        "y": 697,
+        "w": 459,
+        "h": 697
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 18,
+        "w": 459,
+        "h": 697
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00004-816-262.png": {
+      "frame": {
+        "x": 1810,
+        "y": 0,
+        "w": 461,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19,
+        "w": 461,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00000-816-262.png": {
+      "frame": {
+        "x": 1832,
+        "y": 696,
+        "w": 445,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 19,
+        "w": 445,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00008-816-262.png": {
+      "frame": {
+        "x": 1832,
+        "y": 696,
+        "w": 445,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 19,
+        "w": 445,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00016-816-262.png": {
+      "frame": {
+        "x": 1832,
+        "y": 696,
+        "w": 445,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 19,
+        "w": 445,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00017-816-262.png": {
+      "frame": {
+        "x": 1832,
+        "y": 696,
+        "w": 445,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 19,
+        "w": 445,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00012-816-262.png": {
+      "frame": {
+        "x": 1810,
+        "y": 0,
+        "w": 461,
+        "h": 696
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19,
+        "w": 461,
+        "h": 696
+      },
+      "sourceSize": {
+        "w": 502,
+        "h": 724
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "mike_5C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2277,
+      "h": 2091
+    },
+    "scale": 1
+  }
+}

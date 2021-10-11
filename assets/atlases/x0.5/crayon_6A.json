@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "6A-Crayon-00001-1368-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00006-1368-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 168,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 13,
+        "w": 168,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00008-1368-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 395,
+        "w": 183,
+        "h": 278
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 86,
+        "w": 183,
+        "h": 278
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00014-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 395,
+        "w": 239,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 185,
+        "w": 239,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00011-1368-32.png": {
+      "frame": {
+        "x": 422,
+        "y": 345,
+        "w": 229,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 186,
+        "w": 229,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00009-1368-32.png": {
+      "frame": {
+        "x": 515,
+        "y": 0,
+        "w": 199,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 145,
+        "w": 199,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00010-1368-32.png": {
+      "frame": {
+        "x": 422,
+        "y": 542,
+        "w": 214,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 177,
+        "w": 214,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00013-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 593,
+        "w": 159,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 159,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00012-1368-32.png": {
+      "frame": {
+        "x": 636,
+        "y": 542,
+        "w": 153,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 153,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00000-1368-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 673,
+        "w": 158,
+        "h": 159
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 186,
+        "w": 158,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00005-1368-32.png": {
+      "frame": {
+        "x": 651,
+        "y": 226,
+        "w": 138,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 33,
+        "w": 138,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00004-1368-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 345,
+        "w": 23,
+        "h": 23
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 153,
+        "y": 148,
+        "w": 23,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00002-1368-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00003-1368-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00007-1368-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 168,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 13,
+        "w": 168,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00017-1368-32.png": {
+      "frame": {
+        "x": 422,
+        "y": 345,
+        "w": 229,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 186,
+        "w": 229,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00023-1368-32.png": {
+      "frame": {
+        "x": 422,
+        "y": 345,
+        "w": 229,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18,
+        "y": 186,
+        "w": 229,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00016-1368-32.png": {
+      "frame": {
+        "x": 636,
+        "y": 542,
+        "w": 153,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 153,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00018-1368-32.png": {
+      "frame": {
+        "x": 636,
+        "y": 542,
+        "w": 153,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 153,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00022-1368-32.png": {
+      "frame": {
+        "x": 636,
+        "y": 542,
+        "w": 153,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 153,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00015-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 593,
+        "w": 159,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 159,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00019-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 593,
+        "w": 159,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 159,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00021-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 593,
+        "w": 159,
+        "h": 237
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 146,
+        "w": 159,
+        "h": 237
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Crayon-00020-1368-32.png": {
+      "frame": {
+        "x": 183,
+        "y": 395,
+        "w": 239,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 94,
+        "y": 185,
+        "w": 239,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "crayon_6A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 789,
+      "h": 832
+    },
+    "scale": 1
+  }
+}

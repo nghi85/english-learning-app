@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "4A-Glue-00006-650-240.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 414,
+        "h": 389
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 78,
+        "w": 414,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00004-650-240.png": {
+      "frame": {
+        "x": 414,
+        "y": 0,
+        "w": 291,
+        "h": 434
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 33,
+        "w": 291,
+        "h": 434
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00003-650-240.png": {
+      "frame": {
+        "x": 0,
+        "y": 389,
+        "w": 286,
+        "h": 423
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 44,
+        "w": 286,
+        "h": 423
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00005-650-240.png": {
+      "frame": {
+        "x": 286,
+        "y": 434,
+        "w": 388,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 183,
+        "y": 62,
+        "w": 388,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00002-650-240.png": {
+      "frame": {
+        "x": 674,
+        "y": 434,
+        "w": 307,
+        "h": 405
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 162,
+        "y": 62,
+        "w": 307,
+        "h": 405
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00001-650-240.png": {
+      "frame": {
+        "x": 705,
+        "y": 0,
+        "w": 363,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 116,
+        "w": 363,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Glue-00000-650-240.png": {
+      "frame": {
+        "x": 705,
+        "y": 0,
+        "w": 363,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 116,
+        "w": 363,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "glue_4A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1068,
+      "h": 839
+    },
+    "scale": 1
+  }
+}

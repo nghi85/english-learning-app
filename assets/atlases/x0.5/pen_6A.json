@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "6A-Pen-00001-479-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00006-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 166,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 15,
+        "w": 166,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00008-479-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 395,
+        "w": 181,
+        "h": 277
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 146,
+        "y": 87,
+        "w": 181,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00013-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 343,
+        "w": 154,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 138,
+        "w": 154,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00012-479-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 153,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 139,
+        "w": 153,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00014-479-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 0,
+        "w": 238,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 187,
+        "w": 238,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00011-479-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 196,
+        "w": 227,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 187,
+        "w": 227,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00009-479-32.png": {
+      "frame": {
+        "x": 501,
+        "y": 392,
+        "w": 197,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 130,
+        "y": 147,
+        "w": 197,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00010-479-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 672,
+        "w": 212,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 178,
+        "w": 212,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00000-479-32.png": {
+      "frame": {
+        "x": 334,
+        "y": 588,
+        "w": 157,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 187,
+        "w": 157,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00005-479-32.png": {
+      "frame": {
+        "x": 491,
+        "y": 616,
+        "w": 137,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 35,
+        "w": 137,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00004-479-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 639,
+        "w": 24,
+        "h": 23
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 148,
+        "w": 24,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00002-479-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00003-479-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00007-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 166,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 15,
+        "w": 166,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00017-479-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 196,
+        "w": 227,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 187,
+        "w": 227,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00023-479-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 196,
+        "w": 227,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 187,
+        "w": 227,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00016-479-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 153,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 139,
+        "w": 153,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00018-479-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 153,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 139,
+        "w": 153,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00022-479-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 153,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 139,
+        "w": 153,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00015-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 343,
+        "w": 154,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 138,
+        "w": 154,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00019-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 343,
+        "w": 154,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 138,
+        "w": 154,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00021-479-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 343,
+        "w": 154,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 138,
+        "w": 154,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Pen-00020-479-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 0,
+        "w": 238,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 187,
+        "w": 238,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "pen_6A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 751,
+      "h": 871
+    },
+    "scale": 1
+  }
+}

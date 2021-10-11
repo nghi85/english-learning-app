@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "6C-Pencil-00001-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00006-1290-215.png": {
+      "frame": {
+        "x": 495,
+        "y": 0,
+        "w": 243,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 16,
+        "w": 243,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00010-1290-215.png": {
+      "frame": {
+        "x": 495,
+        "y": 497,
+        "w": 308,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 252,
+        "w": 308,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00014-1290-215.png": {
+      "frame": {
+        "x": 738,
+        "y": 0,
+        "w": 343,
+        "h": 285
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 263,
+        "w": 343,
+        "h": 285
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00008-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 567,
+        "w": 264,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 121,
+        "w": 264,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00005-1290-215.png": {
+      "frame": {
+        "x": 738,
+        "y": 285,
+        "w": 196,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 45,
+        "w": 196,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00012-1290-215.png": {
+      "frame": {
+        "x": 264,
+        "y": 567,
+        "w": 221,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 209,
+        "w": 221,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00013-1290-215.png": {
+      "frame": {
+        "x": 803,
+        "y": 482,
+        "w": 232,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 208,
+        "w": 232,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00009-1290-215.png": {
+      "frame": {
+        "x": 485,
+        "y": 784,
+        "w": 287,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 206,
+        "w": 287,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00011-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 967,
+        "w": 331,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 265,
+        "w": 331,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00004-1290-215.png": {
+      "frame": {
+        "x": 264,
+        "y": 906,
+        "w": 33,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 217,
+        "y": 209,
+        "w": 33,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00000-1290-215.png": {
+      "frame": {
+        "x": 772,
+        "y": 822,
+        "w": 225,
+        "h": 225
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 265,
+        "w": 225,
+        "h": 225
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00002-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00003-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 495,
+        "h": 567
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00007-1290-215.png": {
+      "frame": {
+        "x": 495,
+        "y": 0,
+        "w": 243,
+        "h": 497
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 16,
+        "w": 243,
+        "h": 497
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00017-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 967,
+        "w": 331,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 265,
+        "w": 331,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00023-1290-215.png": {
+      "frame": {
+        "x": 0,
+        "y": 967,
+        "w": 331,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 265,
+        "w": 331,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00016-1290-215.png": {
+      "frame": {
+        "x": 264,
+        "y": 567,
+        "w": 221,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 209,
+        "w": 221,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00018-1290-215.png": {
+      "frame": {
+        "x": 264,
+        "y": 567,
+        "w": 221,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 209,
+        "w": 221,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00022-1290-215.png": {
+      "frame": {
+        "x": 264,
+        "y": 567,
+        "w": 221,
+        "h": 339
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 209,
+        "w": 221,
+        "h": 339
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00015-1290-215.png": {
+      "frame": {
+        "x": 803,
+        "y": 482,
+        "w": 232,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 208,
+        "w": 232,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00019-1290-215.png": {
+      "frame": {
+        "x": 803,
+        "y": 482,
+        "w": 232,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 208,
+        "w": 232,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00021-1290-215.png": {
+      "frame": {
+        "x": 803,
+        "y": 482,
+        "w": 232,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 208,
+        "w": 232,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6C-Pencil-00020-1290-215.png": {
+      "frame": {
+        "x": 738,
+        "y": 0,
+        "w": 343,
+        "h": 285
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 132,
+        "y": 263,
+        "w": 343,
+        "h": 285
+      },
+      "sourceSize": {
+        "w": 495,
+        "h": 567
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "pencil_6C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1081,
+      "h": 1250
+    },
+    "scale": 1
+  }
+}

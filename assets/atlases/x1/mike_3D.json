@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "3D-Mike-00000-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 460,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 23,
+        "w": 460,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00022-159-492.png": {
+      "frame": {
+        "x": 460,
+        "y": 0,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00016-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00015-159-492.png": {
+      "frame": {
+        "x": 459,
+        "y": 552,
+        "w": 453,
+        "h": 550
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 27,
+        "w": 453,
+        "h": 550
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00001-159-492.png": {
+      "frame": {
+        "x": 912,
+        "y": 552,
+        "w": 453,
+        "h": 550
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 27,
+        "w": 453,
+        "h": 550
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00002-159-492.png": {
+      "frame": {
+        "x": 919,
+        "y": 0,
+        "w": 446,
+        "h": 548
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 30,
+        "w": 446,
+        "h": 548
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00014-159-492.png": {
+      "frame": {
+        "x": 459,
+        "y": 1102,
+        "w": 446,
+        "h": 548
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 30,
+        "w": 446,
+        "h": 548
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00003-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 1104,
+        "w": 441,
+        "h": 545
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 34,
+        "w": 441,
+        "h": 545
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00013-159-492.png": {
+      "frame": {
+        "x": 905,
+        "y": 1102,
+        "w": 440,
+        "h": 545
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 34,
+        "w": 440,
+        "h": 545
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00004-159-492.png": {
+      "frame": {
+        "x": 1345,
+        "y": 1102,
+        "w": 436,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 37,
+        "w": 436,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00012-159-492.png": {
+      "frame": {
+        "x": 1365,
+        "y": 0,
+        "w": 436,
+        "h": 543
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 37,
+        "w": 436,
+        "h": 543
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00005-159-492.png": {
+      "frame": {
+        "x": 1365,
+        "y": 543,
+        "w": 431,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 41,
+        "w": 431,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00011-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 1649,
+        "w": 430,
+        "h": 540
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 41,
+        "w": 430,
+        "h": 540
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00010-159-492.png": {
+      "frame": {
+        "x": 1345,
+        "y": 1645,
+        "w": 424,
+        "h": 539
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 43,
+        "w": 424,
+        "h": 539
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00006-159-492.png": {
+      "frame": {
+        "x": 905,
+        "y": 1647,
+        "w": 424,
+        "h": 539
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 43,
+        "w": 424,
+        "h": 539
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00007-159-492.png": {
+      "frame": {
+        "x": 430,
+        "y": 1650,
+        "w": 419,
+        "h": 537
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 46,
+        "w": 419,
+        "h": 537
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00009-159-492.png": {
+      "frame": {
+        "x": 1769,
+        "y": 1645,
+        "w": 419,
+        "h": 537
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 46,
+        "w": 419,
+        "h": 537
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00008-159-492.png": {
+      "frame": {
+        "x": 1781,
+        "y": 1083,
+        "w": 413,
+        "h": 535
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 49,
+        "w": 413,
+        "h": 535
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00017-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00018-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00019-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00020-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00021-159-492.png": {
+      "frame": {
+        "x": 0,
+        "y": 552,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Mike-00023-159-492.png": {
+      "frame": {
+        "x": 460,
+        "y": 0,
+        "w": 459,
+        "h": 552
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 23,
+        "w": 459,
+        "h": 552
+      },
+      "sourceSize": {
+        "w": 567,
+        "h": 597
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "mike_3D.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2194,
+      "h": 2189
+    },
+    "scale": 1
+  }
+}

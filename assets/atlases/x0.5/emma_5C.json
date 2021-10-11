@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "5C-Emma-00000-1711-355.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 16,
+        "w": 238,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00001-1711-355.png": {
+      "frame": {
+        "x": 238,
+        "y": 0,
+        "w": 237,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 237,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00007-1711-355.png": {
+      "frame": {
+        "x": 475,
+        "y": 0,
+        "w": 237,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 237,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00008-1711-355.png": {
+      "frame": {
+        "x": 712,
+        "y": 0,
+        "w": 238,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 16,
+        "w": 238,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00009-1711-355.png": {
+      "frame": {
+        "x": 950,
+        "y": 0,
+        "w": 237,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 237,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00002-1711-355.png": {
+      "frame": {
+        "x": 1187,
+        "y": 0,
+        "w": 236,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 14,
+        "w": 236,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00006-1711-355.png": {
+      "frame": {
+        "x": 1423,
+        "y": 0,
+        "w": 236,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 14,
+        "w": 236,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00010-1711-355.png": {
+      "frame": {
+        "x": 1659,
+        "y": 0,
+        "w": 236,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 14,
+        "w": 236,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00014-1711-355.png": {
+      "frame": {
+        "x": 0,
+        "y": 322,
+        "w": 236,
+        "h": 324
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 14,
+        "w": 236,
+        "h": 324
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00003-1711-355.png": {
+      "frame": {
+        "x": 236,
+        "y": 322,
+        "w": 235,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 10,
+        "w": 235,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00005-1711-355.png": {
+      "frame": {
+        "x": 471,
+        "y": 322,
+        "w": 235,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 10,
+        "w": 235,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00011-1711-355.png": {
+      "frame": {
+        "x": 706,
+        "y": 322,
+        "w": 235,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 10,
+        "w": 235,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00013-1711-355.png": {
+      "frame": {
+        "x": 941,
+        "y": 322,
+        "w": 235,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 10,
+        "w": 235,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00004-1711-355.png": {
+      "frame": {
+        "x": 1176,
+        "y": 324,
+        "w": 234,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 7,
+        "w": 234,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00012-1711-355.png": {
+      "frame": {
+        "x": 1410,
+        "y": 324,
+        "w": 234,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 7,
+        "w": 234,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00016-1711-355.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 16,
+        "w": 238,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00017-1711-355.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 16,
+        "w": 238,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Emma-00015-1711-355.png": {
+      "frame": {
+        "x": 238,
+        "y": 0,
+        "w": 237,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 237,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 271,
+        "h": 344
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "emma_5C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1895,
+      "h": 655
+    },
+    "scale": 1
+  }
+}

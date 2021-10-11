@@ -1,0 +1,591 @@
+{
+  "frames": {
+    "6A-Marker-00001-1646-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00006-1646-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 166,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 13,
+        "w": 166,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00008-1646-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 395,
+        "w": 181,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 146,
+        "y": 85,
+        "w": 181,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00014-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 240,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 187,
+        "w": 240,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00011-1646-32.png": {
+      "frame": {
+        "x": 421,
+        "y": 345,
+        "w": 227,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 185,
+        "w": 227,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00009-1646-32.png": {
+      "frame": {
+        "x": 513,
+        "y": 0,
+        "w": 197,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 130,
+        "y": 145,
+        "w": 197,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00010-1646-32.png": {
+      "frame": {
+        "x": 421,
+        "y": 543,
+        "w": 212,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 176,
+        "w": 212,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00013-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 591,
+        "w": 163,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 144,
+        "w": 163,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00012-1646-32.png": {
+      "frame": {
+        "x": 633,
+        "y": 543,
+        "w": 153,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 144,
+        "w": 153,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00000-1646-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 674,
+        "w": 160,
+        "h": 154
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 185,
+        "w": 160,
+        "h": 154
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00005-1646-32.png": {
+      "frame": {
+        "x": 648,
+        "y": 226,
+        "w": 140,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 167,
+        "y": 33,
+        "w": 140,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00004-1646-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 345,
+        "w": 24,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 170,
+        "y": 148,
+        "w": 24,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00002-1646-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00003-1646-32.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 347,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00007-1646-32.png": {
+      "frame": {
+        "x": 347,
+        "y": 0,
+        "w": 166,
+        "h": 345
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 161,
+        "y": 13,
+        "w": 166,
+        "h": 345
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00017-1646-32.png": {
+      "frame": {
+        "x": 421,
+        "y": 345,
+        "w": 227,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 185,
+        "w": 227,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00023-1646-32.png": {
+      "frame": {
+        "x": 421,
+        "y": 345,
+        "w": 227,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 185,
+        "w": 227,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00016-1646-32.png": {
+      "frame": {
+        "x": 633,
+        "y": 543,
+        "w": 153,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 144,
+        "w": 153,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00018-1646-32.png": {
+      "frame": {
+        "x": 633,
+        "y": 543,
+        "w": 153,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 144,
+        "w": 153,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00022-1646-32.png": {
+      "frame": {
+        "x": 633,
+        "y": 543,
+        "w": 153,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 144,
+        "w": 153,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00015-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 591,
+        "w": 163,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 144,
+        "w": 163,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00019-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 591,
+        "w": 163,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 144,
+        "w": 163,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00021-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 591,
+        "w": 163,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 144,
+        "w": 163,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6A-Marker-00020-1646-32.png": {
+      "frame": {
+        "x": 181,
+        "y": 395,
+        "w": 240,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 187,
+        "w": 240,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 347,
+        "h": 395
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "marker_6A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 788,
+      "h": 830
+    },
+    "scale": 1
+  }
+}

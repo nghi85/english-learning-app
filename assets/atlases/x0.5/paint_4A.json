@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "4A-Paint-00005-1790-219.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 72,
+        "w": 265,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00006-1790-219.png": {
+      "frame": {
+        "x": 265,
+        "y": 0,
+        "w": 262,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 75,
+        "w": 262,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00007-1790-219.png": {
+      "frame": {
+        "x": 527,
+        "y": 0,
+        "w": 260,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 87,
+        "w": 260,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00001-1790-219.png": {
+      "frame": {
+        "x": 787,
+        "y": 0,
+        "w": 212,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 49,
+        "w": 212,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00002-1790-219.png": {
+      "frame": {
+        "x": 999,
+        "y": 0,
+        "w": 194,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 42,
+        "w": 194,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00003-1790-219.png": {
+      "frame": {
+        "x": 1193,
+        "y": 0,
+        "w": 193,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 38,
+        "w": 193,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Paint-00004-1790-219.png": {
+      "frame": {
+        "x": 1386,
+        "y": 0,
+        "w": 254,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 11,
+        "w": 254,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "paint_4A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1640,
+      "h": 268
+    },
+    "scale": 1
+  }
+}

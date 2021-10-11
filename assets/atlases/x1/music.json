@@ -1,0 +1,1311 @@
+{
+  "frames": {
+    "3C-Music-00000.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00032.png": {
+      "frame": {
+        "x": 0,
+        "y": 340,
+        "w": 188,
+        "h": 257
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 26,
+        "w": 188,
+        "h": 257
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00033.png": {
+      "frame": {
+        "x": 342,
+        "y": 0,
+        "w": 162,
+        "h": 254
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 30,
+        "w": 162,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00031.png": {
+      "frame": {
+        "x": 188,
+        "y": 340,
+        "w": 188,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 54,
+        "y": 29,
+        "w": 188,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00030.png": {
+      "frame": {
+        "x": 504,
+        "y": 0,
+        "w": 188,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 33,
+        "w": 188,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00036.png": {
+      "frame": {
+        "x": 504,
+        "y": 246,
+        "w": 170,
+        "h": 243
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 127,
+        "y": 45,
+        "w": 170,
+        "h": 243
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00029.png": {
+      "frame": {
+        "x": 0,
+        "y": 597,
+        "w": 205,
+        "h": 239
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 36,
+        "w": 205,
+        "h": 239
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00037.png": {
+      "frame": {
+        "x": 205,
+        "y": 592,
+        "w": 173,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 135,
+        "y": 50,
+        "w": 173,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00035.png": {
+      "frame": {
+        "x": 378,
+        "y": 489,
+        "w": 171,
+        "h": 235
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 53,
+        "w": 171,
+        "h": 235
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00038.png": {
+      "frame": {
+        "x": 376,
+        "y": 254,
+        "w": 105,
+        "h": 233
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 55,
+        "w": 105,
+        "h": 233
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00039.png": {
+      "frame": {
+        "x": 549,
+        "y": 489,
+        "w": 97,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 150,
+        "y": 59,
+        "w": 97,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00040.png": {
+      "frame": {
+        "x": 692,
+        "y": 0,
+        "w": 98,
+        "h": 227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 158,
+        "y": 64,
+        "w": 98,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00034.png": {
+      "frame": {
+        "x": 790,
+        "y": 0,
+        "w": 164,
+        "h": 227
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 59,
+        "w": 164,
+        "h": 227
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00028.png": {
+      "frame": {
+        "x": 692,
+        "y": 227,
+        "w": 145,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 40,
+        "w": 145,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00041.png": {
+      "frame": {
+        "x": 837,
+        "y": 227,
+        "w": 106,
+        "h": 224
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 159,
+        "y": 69,
+        "w": 106,
+        "h": 224
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00042.png": {
+      "frame": {
+        "x": 646,
+        "y": 489,
+        "w": 121,
+        "h": 223
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 156,
+        "y": 73,
+        "w": 121,
+        "h": 223
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00043.png": {
+      "frame": {
+        "x": 767,
+        "y": 453,
+        "w": 128,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 160,
+        "y": 78,
+        "w": 128,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00022.png": {
+      "frame": {
+        "x": 0,
+        "y": 836,
+        "w": 195,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 0,
+        "w": 195,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00027.png": {
+      "frame": {
+        "x": 195,
+        "y": 836,
+        "w": 154,
+        "h": 207
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 50,
+        "w": 154,
+        "h": 207
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00021.png": {
+      "frame": {
+        "x": 349,
+        "y": 830,
+        "w": 196,
+        "h": 201
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 0,
+        "w": 196,
+        "h": 201
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00023.png": {
+      "frame": {
+        "x": 646,
+        "y": 712,
+        "w": 196,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 100,
+        "w": 196,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00024.png": {
+      "frame": {
+        "x": 378,
+        "y": 724,
+        "w": 196,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 111,
+        "w": 196,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00025.png": {
+      "frame": {
+        "x": 545,
+        "y": 825,
+        "w": 184,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 86,
+        "w": 184,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00020.png": {
+      "frame": {
+        "x": 842,
+        "y": 674,
+        "w": 80,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 139,
+        "y": 9,
+        "w": 80,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00026.png": {
+      "frame": {
+        "x": 729,
+        "y": 854,
+        "w": 170,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 66,
+        "w": 170,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00015.png": {
+      "frame": {
+        "x": 954,
+        "y": 0,
+        "w": 166,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 56,
+        "w": 166,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00019.png": {
+      "frame": {
+        "x": 899,
+        "y": 854,
+        "w": 101,
+        "h": 159
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 18,
+        "w": 101,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00016.png": {
+      "frame": {
+        "x": 954,
+        "y": 118,
+        "w": 148,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 45,
+        "w": 148,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00018.png": {
+      "frame": {
+        "x": 943,
+        "y": 248,
+        "w": 124,
+        "h": 148
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 27,
+        "w": 124,
+        "h": 148
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00017.png": {
+      "frame": {
+        "x": 943,
+        "y": 396,
+        "w": 137,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 36,
+        "w": 137,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00012.png": {
+      "frame": {
+        "x": 895,
+        "y": 536,
+        "w": 57,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 142,
+        "y": 46,
+        "w": 57,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00044.png": {
+      "frame": {
+        "x": 952,
+        "y": 536,
+        "w": 132,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 158,
+        "y": 187,
+        "w": 132,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00011.png": {
+      "frame": {
+        "x": 922,
+        "y": 669,
+        "w": 55,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 143,
+        "y": 48,
+        "w": 55,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00013.png": {
+      "frame": {
+        "x": 1000,
+        "y": 651,
+        "w": 58,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 45,
+        "w": 58,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00010.png": {
+      "frame": {
+        "x": 1067,
+        "y": 248,
+        "w": 52,
+        "h": 127
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 50,
+        "w": 52,
+        "h": 127
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00009.png": {
+      "frame": {
+        "x": 1058,
+        "y": 651,
+        "w": 50,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 144,
+        "y": 53,
+        "w": 50,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00045.png": {
+      "frame": {
+        "x": 0,
+        "y": 1044,
+        "w": 123,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 176,
+        "y": 200,
+        "w": 123,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00008.png": {
+      "frame": {
+        "x": 545,
+        "y": 1024,
+        "w": 48,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 145,
+        "y": 55,
+        "w": 48,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00014.png": {
+      "frame": {
+        "x": 349,
+        "y": 1031,
+        "w": 81,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 59,
+        "w": 81,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00007.png": {
+      "frame": {
+        "x": 430,
+        "y": 1031,
+        "w": 48,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 128,
+        "y": 64,
+        "w": 48,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00046.png": {
+      "frame": {
+        "x": 1000,
+        "y": 780,
+        "w": 112,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 195,
+        "y": 214,
+        "w": 112,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00006.png": {
+      "frame": {
+        "x": 123,
+        "y": 1044,
+        "w": 45,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 111,
+        "y": 77,
+        "w": 45,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00005.png": {
+      "frame": {
+        "x": 478,
+        "y": 1031,
+        "w": 54,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 95,
+        "w": 54,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00004.png": {
+      "frame": {
+        "x": 545,
+        "y": 954,
+        "w": 63,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 111,
+        "w": 63,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00003.png": {
+      "frame": {
+        "x": 895,
+        "y": 451,
+        "w": 48,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 124,
+        "w": 48,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00002.png": {
+      "frame": {
+        "x": 674,
+        "y": 453,
+        "w": 29,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 140,
+        "w": 29,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00001.png": {
+      "frame": {
+        "x": 1108,
+        "y": 375,
+        "w": 12,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 155,
+        "w": 12,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00047.png": {
+      "frame": {
+        "x": 952,
+        "y": 651,
+        "w": 14,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 213,
+        "y": 227,
+        "w": 14,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00048.png": {
+      "frame": {
+        "x": 943,
+        "y": 227,
+        "w": 11,
+        "h": 13
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 240,
+        "w": 11,
+        "h": 13
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00049.png": {
+      "frame": {
+        "x": 1108,
+        "y": 395,
+        "w": 9,
+        "h": 10
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 250,
+        "y": 253,
+        "w": 9,
+        "h": 10
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00050.png": {
+      "frame": {
+        "x": 943,
+        "y": 240,
+        "w": 6,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 268,
+        "y": 266,
+        "w": 6,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00051.png": {
+      "frame": {
+        "x": 430,
+        "y": 1145,
+        "w": 3,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 287,
+        "y": 280,
+        "w": 3,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00052.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Music-00053.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 342,
+        "h": 340
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "music.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1120,
+      "h": 1149
+    },
+    "scale": 1
+  }
+}

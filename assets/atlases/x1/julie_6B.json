@@ -1,0 +1,423 @@
+{
+  "frames": {
+    "6B-Julie-00015-1242-242.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 430,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 12,
+        "w": 430,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00009-1242-242.png": {
+      "frame": {
+        "x": 0,
+        "y": 719,
+        "w": 430,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 12,
+        "w": 430,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00007-1242-242.png": {
+      "frame": {
+        "x": 0,
+        "y": 1438,
+        "w": 430,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 12,
+        "w": 430,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00001-1242-242.png": {
+      "frame": {
+        "x": 0,
+        "y": 2157,
+        "w": 430,
+        "h": 719
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 12,
+        "w": 430,
+        "h": 719
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00010-1242-242.png": {
+      "frame": {
+        "x": 430,
+        "y": 0,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00000-1242-242.png": {
+      "frame": {
+        "x": 430,
+        "y": 718,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00006-1242-242.png": {
+      "frame": {
+        "x": 430,
+        "y": 1436,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00002-1242-242.png": {
+      "frame": {
+        "x": 430,
+        "y": 2154,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00014-1242-242.png": {
+      "frame": {
+        "x": 860,
+        "y": 0,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00008-1242-242.png": {
+      "frame": {
+        "x": 860,
+        "y": 718,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00011-1242-242.png": {
+      "frame": {
+        "x": 860,
+        "y": 1436,
+        "w": 429,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 13,
+        "w": 429,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00013-1242-242.png": {
+      "frame": {
+        "x": 860,
+        "y": 2154,
+        "w": 429,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 13,
+        "w": 429,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00005-1242-242.png": {
+      "frame": {
+        "x": 1289,
+        "y": 1436,
+        "w": 428,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 13,
+        "w": 428,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00003-1242-242.png": {
+      "frame": {
+        "x": 1289,
+        "y": 2154,
+        "w": 428,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 13,
+        "w": 428,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00004-1242-242.png": {
+      "frame": {
+        "x": 1290,
+        "y": 0,
+        "w": 427,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 14,
+        "w": 427,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00012-1242-242.png": {
+      "frame": {
+        "x": 1290,
+        "y": 717,
+        "w": 427,
+        "h": 717
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 14,
+        "w": 427,
+        "h": 717
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "6B-Julie-00016-1242-242.png": {
+      "frame": {
+        "x": 430,
+        "y": 718,
+        "w": 430,
+        "h": 718
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 13,
+        "w": 430,
+        "h": 718
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 736
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "julie_6B.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1717,
+      "h": 2876
+    },
+    "scale": 1
+  }
+}

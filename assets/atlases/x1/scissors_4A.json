@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "4A-Scissors-00003-1225-219.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 429,
+        "h": 389
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 103,
+        "w": 429,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00007-1225-219.png": {
+      "frame": {
+        "x": 0,
+        "y": 389,
+        "w": 429,
+        "h": 389
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 105,
+        "y": 103,
+        "w": 429,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00002-1225-219.png": {
+      "frame": {
+        "x": 429,
+        "y": 0,
+        "w": 383,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 89,
+        "w": 383,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00004-1225-219.png": {
+      "frame": {
+        "x": 0,
+        "y": 778,
+        "w": 449,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 99,
+        "y": 120,
+        "w": 449,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00006-1225-219.png": {
+      "frame": {
+        "x": 429,
+        "y": 412,
+        "w": 449,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 100,
+        "y": 120,
+        "w": 449,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00005-1225-219.png": {
+      "frame": {
+        "x": 449,
+        "y": 763,
+        "w": 475,
+        "h": 311
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 142,
+        "w": 475,
+        "h": 311
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4A-Scissors-00001-1225-219.png": {
+      "frame": {
+        "x": 878,
+        "y": 0,
+        "w": 333,
+        "h": 434
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 160,
+        "y": 83,
+        "w": 333,
+        "h": 434
+      },
+      "sourceSize": {
+        "w": 641,
+        "h": 558
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "scissors_4A.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1211,
+      "h": 1129
+    },
+    "scale": 1
+  }
+}

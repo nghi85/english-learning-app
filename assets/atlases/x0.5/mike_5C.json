@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "5C-Mike-00007-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 9,
+        "w": 226,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00000-816-262.png": {
+      "frame": {
+        "x": 226,
+        "y": 0,
+        "w": 223,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00002-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 349,
+        "w": 228,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 9,
+        "w": 228,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00003-816-262.png": {
+      "frame": {
+        "x": 228,
+        "y": 349,
+        "w": 230,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 230,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00004-816-262.png": {
+      "frame": {
+        "x": 449,
+        "y": 0,
+        "w": 231,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 9,
+        "w": 231,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00005-816-262.png": {
+      "frame": {
+        "x": 458,
+        "y": 349,
+        "w": 230,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 230,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00006-816-262.png": {
+      "frame": {
+        "x": 680,
+        "y": 0,
+        "w": 228,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 9,
+        "w": 228,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00001-816-262.png": {
+      "frame": {
+        "x": 0,
+        "y": 698,
+        "w": 226,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 9,
+        "w": 226,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00009-816-262.png": {
+      "frame": {
+        "x": 226,
+        "y": 698,
+        "w": 226,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 9,
+        "w": 226,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00010-816-262.png": {
+      "frame": {
+        "x": 452,
+        "y": 698,
+        "w": 228,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 9,
+        "w": 228,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00011-816-262.png": {
+      "frame": {
+        "x": 680,
+        "y": 698,
+        "w": 230,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 230,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00013-816-262.png": {
+      "frame": {
+        "x": 688,
+        "y": 349,
+        "w": 230,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 9,
+        "w": 230,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00014-816-262.png": {
+      "frame": {
+        "x": 908,
+        "y": 0,
+        "w": 228,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 9,
+        "w": 228,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00015-816-262.png": {
+      "frame": {
+        "x": 910,
+        "y": 698,
+        "w": 226,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 9,
+        "w": 226,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00008-816-262.png": {
+      "frame": {
+        "x": 226,
+        "y": 0,
+        "w": 223,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00016-816-262.png": {
+      "frame": {
+        "x": 226,
+        "y": 0,
+        "w": 223,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00017-816-262.png": {
+      "frame": {
+        "x": 226,
+        "y": 0,
+        "w": 223,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 9,
+        "w": 223,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5C-Mike-00012-816-262.png": {
+      "frame": {
+        "x": 449,
+        "y": 0,
+        "w": 231,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 9,
+        "w": 231,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 251,
+        "h": 362
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "mike_5C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1136,
+      "h": 1047
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "5D-Glue-00000-632-318.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 78,
+        "w": 140,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00006-632-318.png": {
+      "frame": {
+        "x": 140,
+        "y": 0,
+        "w": 159,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 115,
+        "y": 64,
+        "w": 159,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00002-632-318.png": {
+      "frame": {
+        "x": 299,
+        "y": 0,
+        "w": 119,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 57,
+        "w": 119,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00005-632-318.png": {
+      "frame": {
+        "x": 418,
+        "y": 0,
+        "w": 150,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 58,
+        "w": 150,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00003-632-318.png": {
+      "frame": {
+        "x": 568,
+        "y": 0,
+        "w": 114,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 51,
+        "w": 114,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00004-632-318.png": {
+      "frame": {
+        "x": 682,
+        "y": 0,
+        "w": 114,
+        "h": 168
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 47,
+        "w": 114,
+        "h": 168
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Glue-00001-632-318.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 73,
+        "y": 78,
+        "w": 140,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 278
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "glue_5D.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 796,
+      "h": 168
+    },
+    "scale": 1
+  }
+}

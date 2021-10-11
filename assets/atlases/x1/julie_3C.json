@@ -1,0 +1,2775 @@
+{
+  "frames": {
+    "3C-Julie-00094-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 494,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 28,
+        "w": 494,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00066-18-419.png": {
+      "frame": {
+        "x": 494,
+        "y": 0,
+        "w": 505,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 29,
+        "w": 505,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00104-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 632,
+        "w": 486,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 28,
+        "w": 486,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00103-18-419.png": {
+      "frame": {
+        "x": 486,
+        "y": 632,
+        "w": 488,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 28,
+        "w": 488,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00102-18-419.png": {
+      "frame": {
+        "x": 974,
+        "y": 632,
+        "w": 489,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 28,
+        "w": 489,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00101-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 1264,
+        "w": 490,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 28,
+        "w": 490,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00100-18-419.png": {
+      "frame": {
+        "x": 490,
+        "y": 1264,
+        "w": 492,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 28,
+        "w": 492,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00099-18-419.png": {
+      "frame": {
+        "x": 982,
+        "y": 1264,
+        "w": 493,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 28,
+        "w": 493,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00098-18-419.png": {
+      "frame": {
+        "x": 999,
+        "y": 0,
+        "w": 494,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 28,
+        "w": 494,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00097-18-419.png": {
+      "frame": {
+        "x": 1463,
+        "y": 632,
+        "w": 497,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 28,
+        "w": 497,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00096-18-419.png": {
+      "frame": {
+        "x": 1475,
+        "y": 1264,
+        "w": 498,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 28,
+        "w": 498,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00095-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 1896,
+        "w": 497,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 28,
+        "w": 497,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00105-18-419.png": {
+      "frame": {
+        "x": 1493,
+        "y": 0,
+        "w": 485,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 28,
+        "w": 485,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00093-18-419.png": {
+      "frame": {
+        "x": 497,
+        "y": 1896,
+        "w": 493,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 28,
+        "w": 493,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00092-18-419.png": {
+      "frame": {
+        "x": 990,
+        "y": 1896,
+        "w": 492,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 28,
+        "w": 492,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00091-18-419.png": {
+      "frame": {
+        "x": 1482,
+        "y": 1896,
+        "w": 491,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 28,
+        "w": 491,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00090-18-419.png": {
+      "frame": {
+        "x": 1960,
+        "y": 632,
+        "w": 489,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28,
+        "y": 28,
+        "w": 489,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00089-18-419.png": {
+      "frame": {
+        "x": 1978,
+        "y": 0,
+        "w": 488,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 28,
+        "w": 488,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00088-18-419.png": {
+      "frame": {
+        "x": 1973,
+        "y": 1264,
+        "w": 487,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 28,
+        "w": 487,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00087-18-419.png": {
+      "frame": {
+        "x": 1973,
+        "y": 1896,
+        "w": 485,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 28,
+        "w": 485,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00078-18-419.png": {
+      "frame": {
+        "x": 2449,
+        "y": 632,
+        "w": 504,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 56,
+        "y": 29,
+        "w": 504,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00077-18-419.png": {
+      "frame": {
+        "x": 2458,
+        "y": 1896,
+        "w": 508,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 29,
+        "w": 508,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00067-18-419.png": {
+      "frame": {
+        "x": 2466,
+        "y": 0,
+        "w": 508,
+        "h": 632
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 29,
+        "w": 508,
+        "h": 632
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00056-18-419.png": {
+      "frame": {
+        "x": 2460,
+        "y": 1264,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00024-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00000-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00086-18-419.png": {
+      "frame": {
+        "x": 966,
+        "y": 2528,
+        "w": 484,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 29,
+        "w": 484,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00085-18-419.png": {
+      "frame": {
+        "x": 1450,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00084-18-419.png": {
+      "frame": {
+        "x": 1933,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00083-18-419.png": {
+      "frame": {
+        "x": 2416,
+        "y": 2528,
+        "w": 487,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 29,
+        "w": 487,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00082-18-419.png": {
+      "frame": {
+        "x": 2903,
+        "y": 2528,
+        "w": 491,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 29,
+        "w": 491,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00081-18-419.png": {
+      "frame": {
+        "x": 2943,
+        "y": 1264,
+        "w": 494,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 29,
+        "w": 494,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00080-18-419.png": {
+      "frame": {
+        "x": 2953,
+        "y": 632,
+        "w": 498,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 29,
+        "w": 498,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00079-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 3159,
+        "w": 502,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 29,
+        "w": 502,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00002-18-419.png": {
+      "frame": {
+        "x": 502,
+        "y": 3159,
+        "w": 485,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 29,
+        "w": 485,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00106-18-419.png": {
+      "frame": {
+        "x": 987,
+        "y": 3159,
+        "w": 484,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 29,
+        "w": 484,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00076-18-419.png": {
+      "frame": {
+        "x": 1471,
+        "y": 3159,
+        "w": 512,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 30,
+        "w": 512,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00075-18-419.png": {
+      "frame": {
+        "x": 1983,
+        "y": 3159,
+        "w": 515,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 30,
+        "w": 515,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00074-18-419.png": {
+      "frame": {
+        "x": 2498,
+        "y": 3159,
+        "w": 518,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 30,
+        "w": 518,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00073-18-419.png": {
+      "frame": {
+        "x": 3016,
+        "y": 3159,
+        "w": 521,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 30,
+        "w": 521,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00072-18-419.png": {
+      "frame": {
+        "x": 2974,
+        "y": 0,
+        "w": 525,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 30,
+        "w": 525,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00071-18-419.png": {
+      "frame": {
+        "x": 2966,
+        "y": 1895,
+        "w": 521,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 30,
+        "w": 521,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00070-18-419.png": {
+      "frame": {
+        "x": 3437,
+        "y": 1263,
+        "w": 518,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 30,
+        "w": 518,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00069-18-419.png": {
+      "frame": {
+        "x": 3451,
+        "y": 631,
+        "w": 515,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 63,
+        "y": 30,
+        "w": 515,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00068-18-419.png": {
+      "frame": {
+        "x": 3394,
+        "y": 2526,
+        "w": 512,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 30,
+        "w": 512,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00022-18-419.png": {
+      "frame": {
+        "x": 3499,
+        "y": 0,
+        "w": 485,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 29,
+        "w": 485,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00023-18-419.png": {
+      "frame": {
+        "x": 3487,
+        "y": 1894,
+        "w": 484,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 29,
+        "w": 484,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00065-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 3790,
+        "w": 502,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 29,
+        "w": 502,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00001-18-419.png": {
+      "frame": {
+        "x": 502,
+        "y": 3790,
+        "w": 484,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 29,
+        "w": 484,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00061-18-419.png": {
+      "frame": {
+        "x": 986,
+        "y": 3790,
+        "w": 487,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 29,
+        "w": 487,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00062-18-419.png": {
+      "frame": {
+        "x": 1473,
+        "y": 3790,
+        "w": 491,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 29,
+        "w": 491,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00063-18-419.png": {
+      "frame": {
+        "x": 1964,
+        "y": 3790,
+        "w": 494,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 29,
+        "w": 494,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00064-18-419.png": {
+      "frame": {
+        "x": 2458,
+        "y": 3790,
+        "w": 498,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 51,
+        "y": 29,
+        "w": 498,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00107-18-419.png": {
+      "frame": {
+        "x": 2956,
+        "y": 3790,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00004-18-419.png": {
+      "frame": {
+        "x": 3439,
+        "y": 3790,
+        "w": 486,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 30,
+        "w": 486,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00005-18-419.png": {
+      "frame": {
+        "x": 3955,
+        "y": 1262,
+        "w": 487,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 30,
+        "w": 487,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00003-18-419.png": {
+      "frame": {
+        "x": 3966,
+        "y": 631,
+        "w": 486,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 30,
+        "w": 486,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00019-18-419.png": {
+      "frame": {
+        "x": 3984,
+        "y": 0,
+        "w": 487,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 30,
+        "w": 487,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00020-18-419.png": {
+      "frame": {
+        "x": 3537,
+        "y": 3157,
+        "w": 486,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 30,
+        "w": 486,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00021-18-419.png": {
+      "frame": {
+        "x": 3906,
+        "y": 2525,
+        "w": 486,
+        "h": 630
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 59,
+        "y": 30,
+        "w": 486,
+        "h": 630
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00018-18-419.png": {
+      "frame": {
+        "x": 3971,
+        "y": 1892,
+        "w": 487,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 31,
+        "w": 487,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00006-18-419.png": {
+      "frame": {
+        "x": 3925,
+        "y": 3787,
+        "w": 487,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 31,
+        "w": 487,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00007-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 4421,
+        "w": 487,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 31,
+        "w": 487,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00025-18-419.png": {
+      "frame": {
+        "x": 487,
+        "y": 4421,
+        "w": 485,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 31,
+        "w": 485,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00017-18-419.png": {
+      "frame": {
+        "x": 972,
+        "y": 4421,
+        "w": 487,
+        "h": 629
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 31,
+        "w": 487,
+        "h": 629
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00047-18-419.png": {
+      "frame": {
+        "x": 1459,
+        "y": 4421,
+        "w": 484,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 33,
+        "w": 484,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00008-18-419.png": {
+      "frame": {
+        "x": 1943,
+        "y": 4421,
+        "w": 487,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 32,
+        "w": 487,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00009-18-419.png": {
+      "frame": {
+        "x": 2430,
+        "y": 4421,
+        "w": 488,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 32,
+        "w": 488,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00012-18-419.png": {
+      "frame": {
+        "x": 2918,
+        "y": 4421,
+        "w": 488,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 33,
+        "w": 488,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00015-18-419.png": {
+      "frame": {
+        "x": 3406,
+        "y": 4421,
+        "w": 488,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 95,
+        "y": 32,
+        "w": 488,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00016-18-419.png": {
+      "frame": {
+        "x": 3894,
+        "y": 4420,
+        "w": 487,
+        "h": 628
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 32,
+        "w": 487,
+        "h": 628
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00014-18-419.png": {
+      "frame": {
+        "x": 4471,
+        "y": 0,
+        "w": 488,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 33,
+        "w": 488,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00026-18-419.png": {
+      "frame": {
+        "x": 4442,
+        "y": 1261,
+        "w": 486,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 33,
+        "w": 486,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00027-18-419.png": {
+      "frame": {
+        "x": 4452,
+        "y": 630,
+        "w": 487,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 34,
+        "w": 487,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00010-18-419.png": {
+      "frame": {
+        "x": 4023,
+        "y": 3155,
+        "w": 488,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 33,
+        "w": 488,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00011-18-419.png": {
+      "frame": {
+        "x": 4381,
+        "y": 4416,
+        "w": 488,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 33,
+        "w": 488,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00013-18-419.png": {
+      "frame": {
+        "x": 4392,
+        "y": 2521,
+        "w": 488,
+        "h": 627
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 33,
+        "w": 488,
+        "h": 627
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00028-18-419.png": {
+      "frame": {
+        "x": 4458,
+        "y": 1888,
+        "w": 488,
+        "h": 625
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 36,
+        "w": 488,
+        "h": 625
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00029-18-419.png": {
+      "frame": {
+        "x": 4412,
+        "y": 3782,
+        "w": 488,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 38,
+        "w": 488,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00046-18-419.png": {
+      "frame": {
+        "x": 4959,
+        "y": 0,
+        "w": 485,
+        "h": 624
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40,
+        "y": 38,
+        "w": 485,
+        "h": 624
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00030-18-419.png": {
+      "frame": {
+        "x": 4928,
+        "y": 1257,
+        "w": 489,
+        "h": 622
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 40,
+        "w": 489,
+        "h": 622
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00045-18-419.png": {
+      "frame": {
+        "x": 4959,
+        "y": 624,
+        "w": 486,
+        "h": 621
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 42,
+        "w": 486,
+        "h": 621
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00031-18-419.png": {
+      "frame": {
+        "x": 4946,
+        "y": 1879,
+        "w": 489,
+        "h": 620
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 42,
+        "w": 489,
+        "h": 620
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00032-18-419.png": {
+      "frame": {
+        "x": 4946,
+        "y": 2499,
+        "w": 490,
+        "h": 619
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 44,
+        "w": 490,
+        "h": 619
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00033-18-419.png": {
+      "frame": {
+        "x": 4511,
+        "y": 3148,
+        "w": 490,
+        "h": 617
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 46,
+        "w": 490,
+        "h": 617
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00034-18-419.png": {
+      "frame": {
+        "x": 4869,
+        "y": 4406,
+        "w": 490,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 48,
+        "w": 490,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00044-18-419.png": {
+      "frame": {
+        "x": 4900,
+        "y": 3765,
+        "w": 487,
+        "h": 616
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 47,
+        "w": 487,
+        "h": 616
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00035-18-419.png": {
+      "frame": {
+        "x": 0,
+        "y": 5050,
+        "w": 490,
+        "h": 615
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 49,
+        "w": 490,
+        "h": 615
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00036-18-419.png": {
+      "frame": {
+        "x": 490,
+        "y": 5050,
+        "w": 490,
+        "h": 613
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 51,
+        "w": 490,
+        "h": 613
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00043-18-419.png": {
+      "frame": {
+        "x": 980,
+        "y": 5050,
+        "w": 488,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 52,
+        "w": 488,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00037-18-419.png": {
+      "frame": {
+        "x": 1468,
+        "y": 5049,
+        "w": 490,
+        "h": 612
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 53,
+        "w": 490,
+        "h": 612
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00038-18-419.png": {
+      "frame": {
+        "x": 1958,
+        "y": 5049,
+        "w": 490,
+        "h": 610
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 55,
+        "w": 490,
+        "h": 610
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00042-18-419.png": {
+      "frame": {
+        "x": 2448,
+        "y": 5049,
+        "w": 489,
+        "h": 609
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 56,
+        "w": 489,
+        "h": 609
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00039-18-419.png": {
+      "frame": {
+        "x": 2937,
+        "y": 5049,
+        "w": 490,
+        "h": 608
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 57,
+        "w": 490,
+        "h": 608
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00040-18-419.png": {
+      "frame": {
+        "x": 3427,
+        "y": 5049,
+        "w": 490,
+        "h": 607
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 59,
+        "w": 490,
+        "h": 607
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00041-18-419.png": {
+      "frame": {
+        "x": 3917,
+        "y": 5048,
+        "w": 490,
+        "h": 605
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 61,
+        "w": 490,
+        "h": 605
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00048-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00049-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00050-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00051-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00052-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00053-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00054-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00055-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00108-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00109-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00110-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00111-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00112-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00113-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00114-18-419.png": {
+      "frame": {
+        "x": 483,
+        "y": 2528,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00057-18-419.png": {
+      "frame": {
+        "x": 2460,
+        "y": 1264,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00058-18-419.png": {
+      "frame": {
+        "x": 2460,
+        "y": 1264,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00059-18-419.png": {
+      "frame": {
+        "x": 2460,
+        "y": 1264,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3C-Julie-00060-18-419.png": {
+      "frame": {
+        "x": 2460,
+        "y": 1264,
+        "w": 483,
+        "h": 631
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 29,
+        "w": 483,
+        "h": 631
+      },
+      "sourceSize": {
+        "w": 624,
+        "h": 687
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "julie_3C.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 5445,
+      "h": 5665
+    },
+    "scale": 1
+  }
+}

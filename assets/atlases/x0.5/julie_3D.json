@@ -1,0 +1,783 @@
+{
+  "frames": {
+    "3D-Julie-00016-1322-478.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 180,
+        "h": 263
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 31,
+        "w": 180,
+        "h": 263
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00010-1322-478.png": {
+      "frame": {
+        "x": 180,
+        "y": 0,
+        "w": 190,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 31,
+        "w": 190,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00011-1322-478.png": {
+      "frame": {
+        "x": 370,
+        "y": 0,
+        "w": 188,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33,
+        "y": 31,
+        "w": 188,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00012-1322-478.png": {
+      "frame": {
+        "x": 558,
+        "y": 0,
+        "w": 186,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 31,
+        "w": 186,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00013-1322-478.png": {
+      "frame": {
+        "x": 744,
+        "y": 0,
+        "w": 185,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 31,
+        "w": 185,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00014-1322-478.png": {
+      "frame": {
+        "x": 929,
+        "y": 0,
+        "w": 183,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 31,
+        "w": 183,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00015-1322-478.png": {
+      "frame": {
+        "x": 1112,
+        "y": 0,
+        "w": 183,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 31,
+        "w": 183,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00007-1322-478.png": {
+      "frame": {
+        "x": 1295,
+        "y": 0,
+        "w": 193,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 31,
+        "w": 193,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00009-1322-478.png": {
+      "frame": {
+        "x": 1488,
+        "y": 0,
+        "w": 193,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 31,
+        "w": 193,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00008-1322-478.png": {
+      "frame": {
+        "x": 1681,
+        "y": 0,
+        "w": 195,
+        "h": 266
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 31,
+        "w": 195,
+        "h": 266
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00006-1322-478.png": {
+      "frame": {
+        "x": 0,
+        "y": 264,
+        "w": 196,
+        "h": 269
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 27,
+        "w": 196,
+        "h": 269
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00017-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00005-1322-478.png": {
+      "frame": {
+        "x": 376,
+        "y": 264,
+        "w": 198,
+        "h": 273
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 23,
+        "w": 198,
+        "h": 273
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00004-1322-478.png": {
+      "frame": {
+        "x": 574,
+        "y": 264,
+        "w": 201,
+        "h": 276
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 20,
+        "w": 201,
+        "h": 276
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00003-1322-478.png": {
+      "frame": {
+        "x": 775,
+        "y": 264,
+        "w": 203,
+        "h": 280
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 16,
+        "w": 203,
+        "h": 280
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00002-1322-478.png": {
+      "frame": {
+        "x": 978,
+        "y": 264,
+        "w": 205,
+        "h": 283
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 13,
+        "w": 205,
+        "h": 283
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00001-1322-478.png": {
+      "frame": {
+        "x": 1183,
+        "y": 265,
+        "w": 208,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 208,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00000-1322-478.png": {
+      "frame": {
+        "x": 1391,
+        "y": 265,
+        "w": 210,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 6,
+        "w": 210,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00018-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00019-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00020-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00021-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00022-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00023-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00024-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00025-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00026-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00027-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00028-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00029-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00030-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "3D-Julie-00031-1322-478.png": {
+      "frame": {
+        "x": 196,
+        "y": 264,
+        "w": 180,
+        "h": 270
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 24,
+        "w": 180,
+        "h": 270
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 303
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "julie_3D.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1876,
+      "h": 555
+    },
+    "scale": 1
+  }
+}

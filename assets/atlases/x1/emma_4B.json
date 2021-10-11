@@ -1,0 +1,399 @@
+{
+  "frames": {
+    "4B-Emma-00001-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00002-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 788,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00006-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 1576,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00007-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 2364,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00009-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 3152,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00010-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 0,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00014-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 788,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00000-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 1576,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00003-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 2363,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00004-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 3150,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00005-121-312.png": {
+      "frame": {
+        "x": 1672,
+        "y": 0,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00008-121-312.png": {
+      "frame": {
+        "x": 1672,
+        "y": 787,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00013-121-312.png": {
+      "frame": {
+        "x": 1672,
+        "y": 1574,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00015-121-312.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 836,
+        "h": 788
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 19,
+        "w": 836,
+        "h": 788
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00012-121-312.png": {
+      "frame": {
+        "x": 836,
+        "y": 3150,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "4B-Emma-00011-121-312.png": {
+      "frame": {
+        "x": 1672,
+        "y": 0,
+        "w": 836,
+        "h": 787
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 20,
+        "w": 836,
+        "h": 787
+      },
+      "sourceSize": {
+        "w": 846,
+        "h": 809
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "emma_4B.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2508,
+      "h": 3940
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "5D-Scissors-00005-1037-284.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 71,
+        "y": 88,
+        "w": 186,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00004-1037-284.png": {
+      "frame": {
+        "x": 186,
+        "y": 0,
+        "w": 176,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 79,
+        "w": 176,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00006-1037-284.png": {
+      "frame": {
+        "x": 362,
+        "y": 0,
+        "w": 176,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 79,
+        "w": 176,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00003-1037-284.png": {
+      "frame": {
+        "x": 538,
+        "y": 0,
+        "w": 168,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 73,
+        "w": 168,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00007-1037-284.png": {
+      "frame": {
+        "x": 706,
+        "y": 0,
+        "w": 168,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 73,
+        "w": 168,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00002-1037-284.png": {
+      "frame": {
+        "x": 874,
+        "y": 0,
+        "w": 151,
+        "h": 159
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 68,
+        "w": 151,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00000-1037-284.png": {
+      "frame": {
+        "x": 1025,
+        "y": 0,
+        "w": 132,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 66,
+        "w": 132,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "5D-Scissors-00001-1037-284.png": {
+      "frame": {
+        "x": 1025,
+        "y": 0,
+        "w": 132,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 66,
+        "w": 132,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "scissors_5D.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1157,
+      "h": 167
+    },
+    "scale": 1
+  }
+}
